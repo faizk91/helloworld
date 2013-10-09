@@ -1,7 +1,7 @@
 package com.xurmo.test;
 
 
-// test comment
+// test comment -------------->
 public final class Sample {
 
 	private int i;
