@@ -5,12 +5,7 @@ public final class Sample {
 
 	private int i;
 	private String string;
-	public int funInt()
-	{
-		return 4;
-	}
-	
-	//addd comment
+
 	
 	public int getI() {
 		return i;
