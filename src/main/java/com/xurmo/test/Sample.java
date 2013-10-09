@@ -10,7 +10,7 @@ public final class Sample {
 		return 4;
 	}
 	
-	
+	//addd comment
 	
 	public int getI() {
 		return i;
