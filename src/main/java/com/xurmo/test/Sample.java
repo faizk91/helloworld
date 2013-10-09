@@ -2,6 +2,9 @@ package com.xurmo.test;
 
 
 // test comment -------------->
+
+//Modified
+
 public final class Sample {
 
 	private int i;
